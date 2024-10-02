@@ -19,9 +19,10 @@ body {
     background-repeat: no-repeat;
     background-size: auto;
     border-radius: 50px;
-    padding: 10px;
     margin: 10px;
+    text-decoration: underline;
     border: inset 10px blue
+    
     
 
 
@@ -31,4 +32,4 @@ body {
 
 
 
-/*comentario*/
+/*comentario dddd*/
